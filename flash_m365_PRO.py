@@ -23,7 +23,7 @@ import socket
 import openocd
 import shutil
 
-serial ='26354/00040000'
+serial ='21886/00027008'
 KM=0
 
 def word2bytes(word):
